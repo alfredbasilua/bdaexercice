@@ -136,6 +136,7 @@ h4{
     .image{
         flex-direction: column;
         height: 200px;
+        margin-top: 10px;
     }
     article{
         flex-direction: column;
@@ -171,4 +172,7 @@ h4{
     }
 }
     
-
+.icon{
+    font-size: 30px;
+    margin: 5px;
+}
